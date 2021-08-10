@@ -1,4 +1,4 @@
-# intern_project
+# BrowseCategories
 
 ## Demo
 
